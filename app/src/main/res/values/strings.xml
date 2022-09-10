@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VU_KNF_Hello_World</string>
+    <string name="changePink">Lets make text black!</string>
+    <string name="changeBlack">Lets make text pink!</string>
+</resources>
